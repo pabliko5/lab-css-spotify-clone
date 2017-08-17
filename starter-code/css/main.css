@@ -6,3 +6,101 @@ Green: #00B172
 White: #FFF
 
 */
+
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+
+body{
+  font-family: sans-serif;
+  margin:0;
+  padding: 0;
+}
+
+
+.navigator {
+  position: fixed;
+  background: #fff;
+  width: 100%;
+}
+
+.list1 {
+  float: right;
+  padding-top: 15px;
+
+}
+
+li{
+
+  float: left;
+  color: #1A1A1A;
+  margin-right: 40px;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.fondo {
+  border-style: dotted;
+  background-image: url("../images/landing.jpg");
+  background-size: cover;
+  height: 500px;
+
+}
+.title1{
+  margin-top: 300px;
+  font-size: 65px;
+  text-align: center;
+  color: #FFF
+}
+
+.title2{
+  font-size: 25px;
+  text-align: center;
+  color: #FFF;
+}
+
+
+#sectionArticle {
+  border-style: dotted;
+  text-align: center;
+}
+
+.iconos-article {
+  display: inline-block;
+}
+
+
+.finalsection{
+  border-style: dotted;
+  background-color: #00B172;
+  width: 90%;
+  height: 800px;
+  margin: 0 auto;
+}
+
+
+.description {
+    border-style: dotted;
+  width: 40%;
+  display: inline-block;
+}
+
+
+.iconowhite {
+    border-style: dotted;
+
+
+}
+
+.appSection {
+    border-style: dotted;
+    width: 25%;
+    display: inline-block;
+
+}
